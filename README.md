@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ashtonasidhu" target="blank"><img src="https://img.shields.io/twitter/follow/ashtonasidhu?logo=twitter&style=for-the-badge" alt="ashton-sidhu" /></a> </p>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about 
+- 🔭 I’m currently working on version 3 of [Aethos](https://github.com/Ashton-Sidhu/aethos).
+- 🌱 I’m currently learning Penetration Testing.
+- 👯 I’m looking to collaborate on Aethos.
+- 💬 Ask me about ML Ops and end to end ML.
 - 📫 How to reach me **sidhuashton@gmail.com**
-- 📄 Know about my experiences 
-- ⚡ Fun fact 
+- 📄 Know about my experiences at [Ashton's Tech Tales](https://ashton-sidhu.github.io/blog/)!
+- ⚡ Fun fact - I almost pursued a career as a musician 🎷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
