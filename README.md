@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashton-sidhu&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashton-sidhu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashton-sidhu&show_icons=true&theme=dark&locale=en" alt="tidusjar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashton-sidhu&show_icons=true&theme=dark&locale=en" alt="ashton-sidhu" /></p>
